@@ -1,0 +1,11 @@
+.App-logo-container {
+    padding-top: 25px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  .App-logo {
+    height: 200px;
+    width: 400px;
+  }
